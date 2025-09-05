@@ -1,0 +1,2 @@
+[INFO] 2025-09-05T05:36:45.032Z - GET / (200) from ::1 in 9ms
+[INFO] 2025-09-05T05:36:45.171Z - GET /favicon.ico (404) from ::1 in 3ms
