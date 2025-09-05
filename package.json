@@ -1,0 +1,9 @@
+{
+  "name": "logzify",
+  "version": "1.0.0",
+  "description": "A simple, customizable HTTP request logger middleware for Express.js.",
+  "main": "logzify.js",
+  "keywords": ["express", "logger", "middleware", "logging", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT"
+}
